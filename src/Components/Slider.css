@@ -1,0 +1,15 @@
+.slider{
+    margin-top: 10px;
+    margin-left: 43%;
+}
+.slider>ul{
+    display : flex
+}
+.slide{
+    list-style: none;
+}
+.slide-button{
+    min-width: 30px;
+    min-height: 30px;
+
+}
